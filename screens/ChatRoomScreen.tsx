@@ -32,6 +32,7 @@ const ChatRoomScreen = () => {
           sortDirection: "DESC",
         }
       )
+      
     )
 
     console.log("FETCH MESSAGES")

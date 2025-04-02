@@ -1,3 +1,4 @@
+
 import * as React from 'react';
 import {FlatList, StyleSheet} from 'react-native';
 import { API, graphqlOperation } from 'aws-amplify';

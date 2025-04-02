@@ -1,3 +1,4 @@
+
 projects:
   whatsappclone:
     schemaPath: src/graphql/schema.json
